@@ -65,7 +65,7 @@ I write and document my learning journey in:
 * Commercial and Business Analysis
 * Excel and Power BI Tips
 * SQL and Python Learning Notes
-## ✍️ Blogs
+## ✍️ Medium
 
 - 📝 [Building an End-to-End Data Pipeline for Stock Price Analysis](https://medium.com/@ikisehestherjoan/building-an-end-to-end-data-pipeline-for-stock-price-analysis-877fb14d948d)
 - 📝 [NO SQL DATABASE FOR DATA ENGINEERING](https://medium.com/@ikisehestherjoan/exploring-nosql-databases-for-data-engineering-workloads-8a60759accb3))
