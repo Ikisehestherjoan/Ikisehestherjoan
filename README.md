@@ -29,11 +29,13 @@ As a young professional in the data space, I enjoy working on data-driven projec
 ### ⚙️ Data Engineering
 
 * Python
-* PostgreSQL
+* PostgreSQL/MYSQL
 * MinIO
-* Apache Airflow (Learning)
+* Apache Airflow 
 * ETL Pipelines
 * Data Modeling
+* AWS
+* LINUX
 
 ### 🧰 Other Tools
 
