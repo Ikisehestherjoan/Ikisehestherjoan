@@ -48,11 +48,22 @@ As a young professional in the data space, I enjoy working on data-driven projec
 
 Here are some of the projects you will find in my GitHub:
 
-* 📊 Sales Performance Dashboard
-* 📦 Demand Forecasting Data Pipeline
-* 🏥 Pharmaceutical Commercial Analytics Project
-* 📈 Excel & Power BI Business Reports
-* 🛠️ ETL and Data Engineering Projects
+## 📂 Featured Projects
+
+### 📊 Sales Performance Dashboard
+Power BI and Excel dashboard analyzing sales performance, KPIs, revenue trends, and territory performance to support business decision-making.
+
+### 📦 PaySecs Fintech Data Pipeline & Analytics Engineering Project
+Built a scalable fintech data pipeline to improve data retrieval, ensure data accuracy, and automate weekly reporting for stakeholders.
+
+### 🏥 Pharmaceutical Commercial Analytics Project
+Commercial and sales analytics project focused on product performance, territory coverage, and customer insights in the pharmaceutical sector.
+
+### 📈 Excel & Power BI Business Reports
+Collection of business intelligence reports and dashboards used for performance tracking and operational insights.
+
+### 🛠️ ETL and Data Engineering Projects
+Data engineering projects involving Python, SQL, PostgreSQL, and ETL pipelines for data processing and automation.
 
 ---
 
