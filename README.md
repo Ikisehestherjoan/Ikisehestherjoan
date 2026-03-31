@@ -43,12 +43,8 @@ As a young professional in the data space, I enjoy working on data-driven projec
 * Google Sheets
 
 ---
-
-## 📂 Projects
-
-Here are some of the projects you will find in my GitHub:
-
 ## 📂 Featured Projects
+  Here are some of the projects you will find in my GitHub:
 
 ### 📊 Sales Performance Dashboard
 Power BI and Excel dashboard analyzing sales performance, KPIs, revenue trends, and territory performance to support business decision-making.
